@@ -1,0 +1,32 @@
+{
+  "name": "basic-map",
+  "version": "1.0.0",
+  "description": "Basic map example using react-simple-maps and world-110m.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "d3-fetch": "3.0.1",
+    "d3-scale": "4.0.2",
+    "lodash": "4.17.21",
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "react-simple-maps": "3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

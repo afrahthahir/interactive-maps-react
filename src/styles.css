@@ -1,0 +1,55 @@
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+  padding: 0 1.5rem;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.colors {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.one {
+  margin-right: 10px;
+}
+.two {
+  margin-right: 10px;
+}
+.three {
+  margin-right: 10px;
+}
+
+.circleg {
+  display: flex;
+
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+.circleb {
+  display: flex;
+
+  width: 20px;
+  height: 20px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.circleo {
+  display: flex;
+
+  width: 20px;
+  height: 20px;
+  background-color: #f53;
+  border-radius: 50%;
+}
